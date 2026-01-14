@@ -1,3 +1,4 @@
 # 介绍
 ## 一群AI能通过对话产生创新吗？
-围绕这个主题正在开展初步探索，感兴趣的可以参考AI_Talk文件夹。欢迎交流 (groupshare@mail.bnu.edu.cn)
+我正围绕这个主题开展初步探索。对这个主题有兴趣的爱好者可以参考AI_Talk文件夹。
+欢迎交流讨论与思想碰撞 (groupshare@mail.bnu.edu.cn)
